@@ -1,4 +1,4 @@
-# Predict-the-Price-of-a-House
+# Predict the Price of a House
 This project uses linear regression model building to predict house prices based on a single feature - area.
 
 Since this is clearly a linear regression problem, we would build a linear regression model, train it, and test it. After which, we will deploy it and then use it to make predictions.
